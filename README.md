@@ -1,7 +1,8 @@
 # CareCalendar
 
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/0c36043c-f44e-4bbb-82cd-6f089b4d6fbf">
-![CareCalendar](https://github.com/user-attachments/assets/dfdb490d-ca44-47b0-ba13-5c505973bde0)
+![CareCalendar (2)](https://github.com/user-attachments/assets/17e3976b-9295-46d6-8738-14632040ea42)
+
 
 CareCalendar is a custom-built scheduling application created with TypeScript and Redux, using Vite for project building. It offers a highly customizable and interactive calendar interface that allows users to manage appointments effectively. The calendar was built from scratch to incorporate specific business logic and provide an intuitive user experience.
 
